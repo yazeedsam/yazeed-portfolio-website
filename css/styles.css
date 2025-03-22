@@ -114,3 +114,10 @@ footer p {
         font-size: 1.5rem;
     }
 }
+
+small-picture {
+    width: 100px;
+    height: auto;
+    border-radius: 50%; /* Optional: to make the image circular */
+    margin: 10px 0;
+} 
