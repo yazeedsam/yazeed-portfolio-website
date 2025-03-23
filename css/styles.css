@@ -241,4 +241,13 @@ footer p {
     border-radius: 0; /* Optional: to make the image circular */
     margin: 10px 0;
 } 
+.project-gallery {
+    display: flex;
+    justify-content: space-between;
+}
+
+.project-gallery img {
+    width: 30%;
+    height: auto;
+}
 
