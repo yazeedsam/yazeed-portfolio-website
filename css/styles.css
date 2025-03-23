@@ -70,7 +70,7 @@ section {
 }
 
 section img {
-    max-width: 100%;
+    max-width: 99%;
     height: auto;
     display: block;
     margin: 1rem 0;
