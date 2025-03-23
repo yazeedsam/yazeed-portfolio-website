@@ -238,7 +238,7 @@ footer p {
 .small-picture {
     width: 100 px;
     height: auto;
-    border-radius: 0%; /* Optional: to make the image circular */
+    border-radius: 0; /* Optional: to make the image circular */
     margin: 10px 0;
 } 
 
