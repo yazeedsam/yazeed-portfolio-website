@@ -157,8 +157,8 @@ footer p {
 }
 
 .small-picture {
-    width: 100px;
-    height: auto;
+    width: 150px; /* Adjusted width to make it more visible */
+    height: auto; /* Auto height to maintain aspect ratio */
     border-radius: 0; /* Set to 0 to make the borders square */
     margin: 10px 0;
 }
