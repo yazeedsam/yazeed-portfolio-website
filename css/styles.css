@@ -157,8 +157,8 @@ footer p {
 }
 
 .small-picture {
-    width: 100%; /* Make the image take the full width of the container */
+    width: 200%; /* Make the image take the full width of the container */
     height: auto; /* Maintain aspect ratio */
-    max-width: 150px; /* Max width to ensure it doesn't get too large */
+    max-width: 300px; /* Max width to ensure it doesn't get too large */
     margin: 10px 0;
 }
